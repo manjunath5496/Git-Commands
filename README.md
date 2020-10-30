@@ -112,6 +112,39 @@ git branch -a
 
 
 
+### **Description:**
+> ***Display Git configurations.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```git
+git config --list
+
+```
+----------------------------------------
+
+
+### **Description:**
+> ***Add an empty file "test.txt" to an existing repo "colors".***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```git
+touch test.txt
+git init
+git add test.txt
+git commit -m "first commit"
+git remote add origin git@github.com:myw3schools/colors.git
+git push -u origin main
+
+
+```
+----------------------------------------
+
+
+
 
 
 
