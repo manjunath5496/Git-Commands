@@ -4,12 +4,54 @@
 
 ---------------------------------------
 
-<strong>This command sets the author name and email address respectively to be used with your commits </strong>
+<strong> Display information about previous commits </strong>
 
 ```github
-git config –global user.name "John Doe"
-
-git config –global user.email "johndoe@example.com"
+git log
 
 ```
 ----------------------------------------
+
+> ***git config***
+
+---------------------------------------
+
+<strong> Display information about previous commits (detailed) </strong>
+
+```github
+git log --summary
+
+```
+----------------------------------------
+
+> ***git config***
+
+---------------------------------------
+
+<strong> Display information about previous commits (briefly) </strong>
+
+```github
+git log --oneline	
+
+```
+----------------------------------------
+
+> ***git config***
+
+---------------------------------------
+
+<strong> Obtain the repository "Git-Commands" from the URL "https:// github.com/ myw3schools/Git-Commands.git" </strong>
+
+```github
+git clone https://github.com/myw3schools/Git-Commands.git
+
+```
+----------------------------------------
+
+
+
+
+
+
+
+
