@@ -37,13 +37,13 @@ git log --oneline
 
 
 ### **Description:**
-> ***Obtain the repository "Git-Commands" from the URL "https:// github.com/ myw3schools/Git-Commands.git".***
+> ***Obtain the repository "Git-Commands" from the URL "https:// github.com/ manjunath5496/Git-Commands.git".***
 ---------------------------------------
 
 <strong>Command: </strong>
 
 ```git
-git clone https://github.com/myw3schools/Git-Commands.git
+git clone https://github.com/manjunath5496/Git-Commands.git
 ```
 ----------------------------------------
 
