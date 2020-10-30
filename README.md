@@ -1,52 +1,59 @@
 # Git Commands
 
-> ***git command***
 
+### **Description:**
+> ***Display information about previous commits.***
 ---------------------------------------
 
-<strong> Display information about previous commits </strong>
+<strong>Command: </strong>
 
-```github
+```git
 git log
-
 ```
 ----------------------------------------
 
-> ***git command***
 
+### **Description:**
+> ***Display information about previous commits (detailed).***
 ---------------------------------------
 
-<strong> Display information about previous commits (detailed) </strong>
+<strong>Command: </strong>
 
-```github
+```git
 git log --summary
-
 ```
 ----------------------------------------
 
-> ***git command***
-
+### **Description:**
+> ***Display information about previous commits (briefly).***
 ---------------------------------------
 
-<strong> Display information about previous commits (briefly) </strong>
+<strong>Command: </strong>
 
-```github
+```git
 git log --oneline	
-
 ```
 ----------------------------------------
 
-> ***git command***
 
+### **Description:**
+> ***Obtain the repository "Git-Commands" from the URL "https:// github.com/ myw3schools/Git-Commands.git".***
 ---------------------------------------
 
-<strong> Obtain the repository "Git-Commands" from the URL "https:// github.com/ myw3schools/Git-Commands.git" </strong>
+<strong>Command: </strong>
 
-```github
+```git
 git clone https://github.com/myw3schools/Git-Commands.git
-
 ```
 ----------------------------------------
+
+
+
+
+
+
+
+
 
 
 
