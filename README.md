@@ -143,11 +143,14 @@ git push -u origin main
 ```
 ----------------------------------------
 
+</br>
 
 
+<ul>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Git-Commands/blob/master/git-cheat-sheet.pdf" style="text-decoration:none;">Git Cheat Sheet</a></li>
 
-
+</ul>
 
 
 
